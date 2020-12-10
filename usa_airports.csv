@@ -1,0 +1,242 @@
+,City,Airport,Enplanements,Link,latitude,longitude
+0,Atlanta,Hartsfield–Jackson Atlanta International Airport,50501858.0,/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport,33.63667,-84.42806
+1,Los Angeles,Los Angeles International Airport,39636042.0,/wiki/Los_Angeles_International_Airport,33.9425,-118.40806
+2,Chicago,Chicago O'Hare International Airport,37589899.0,/wiki/O%27Hare_International_Airport,41.97861,-87.90472
+3,Dallas,Dallas/Fort Worth International Airport,31283579.0,/wiki/Dallas/Fort_Worth_International_Airport,32.89694,-97.03806
+4,Denver,Denver International Airport,28267394.0,/wiki/Denver_International_Airport,39.86167,-104.67306
+5,San Francisco,San Francisco International Airport,25707101.0,/wiki/San_Francisco_International_Airport,37.61889,-122.375
+6,Orlando,Orlando International Airport,24562271.0,/wiki/Orlando_International_Airport,28.42944,-81.30889
+7,Las Vegas,McCarran International Airport,22833267.0,/wiki/McCarran_International_Airport,36.08,-115.15222
+8,Seattle / Tacoma (SeaTac),Seattle–Tacoma International Airport,21887110.0,/wiki/Seattle%E2%80%93Tacoma_International_Airport,47.44889,-122.30944
+9,Charlotte,Charlotte/Douglas International Airport,21511880.0,/wiki/Charlotte/Douglas_International_Airport,35.21389,-80.94306
+10,Miami,Miami International Airport,21421031.0,/wiki/Miami_International_Airport,25.79333,-80.29056
+11,Phoenix,Phoenix Sky Harbor International Airport,20896265.0,/wiki/Phoenix_Sky_Harbor_International_Airport,33.43417,-112.01167
+12,Houston,George Bush Intercontinental Airport,20062072.0,/wiki/George_Bush_Intercontinental_Airport,29.98444,-95.34139
+13,New York / Newark,Newark Liberty International Airport,19923009.0,/wiki/Newark_Liberty_International_Airport,40.6925,-74.16861
+14,Fort Lauderdale,Fort Lauderdale–Hollywood International Airport,17950989.0,/wiki/Fort_Lauderdale%E2%80%93Hollywood_International_Airport,26.0725,-80.15278
+15,Boston,Gen. Edward Lawrence Logan International Airport,17759044.0,/wiki/Logan_International_Airport,42.36306,-71.00639
+16,Detroit,Detroit Metropolitan Airport,16847135.0,/wiki/Detroit_Metropolitan_Airport,42.2125,-83.35333
+17,Philadelphia,Philadelphia International Airport,15285948.0,/wiki/Philadelphia_International_Airport,39.87194,-75.24111
+18,Baltimore,Baltimore/Washington International Thurgood Marshall Airport,13371816.0,/wiki/Baltimore/Washington_International_Thurgood_Marshall_Airport,39.17528,-76.66833
+19,"Washington, D.C. / Arlington County",Ronald Reagan Washington National Airport,11470854.0,/wiki/Ronald_Reagan_Washington_National_Airport,38.85222,-77.03778
+20,Salt Lake City,Salt Lake City International Airport,11143738.0,/wiki/Salt_Lake_City_International_Airport,40.78833,-111.97778
+21,Chicago,Chicago Midway International Airport,11044387.0,/wiki/Chicago_Midway_International_Airport,41.78611,-87.7525
+22,Tampa,Tampa International Airport,10941173.0,/wiki/Tampa_International_Airport,27.97556,-82.53333
+23,"Washington, D.C. / Dulles / Chantilly",Washington Dulles International Airport,10596942.0,/wiki/Washington_Dulles_International_Airport,38.94444,-77.45583
+24,"Honolulu, Oahu",Daniel K. Inouye International Airport,9656340.0,/wiki/Daniel_K._Inouye_International_Airport,21.31861,-157.9225
+25,Portland,Portland International Airport,9071154.0,/wiki/Portland_International_Airport,45.58861,-122.5975
+26,St. Louis,St. Louis Lambert International Airport,6793076.0,/wiki/St._Louis_Lambert_International_Airport,38.74722,-90.36139
+27,Houston,William P. Hobby Airport,6285181.0,/wiki/William_P._Hobby_Airport,29.64556,-95.27889
+28,Austin,Austin-Bergstrom International Airport,6095545.0,/wiki/Austin-Bergstrom_International_Airport,30.19444,-97.67
+29,Oakland,Oakland International Airport,5934639.0,/wiki/Oakland_International_Airport,37.72139,-122.22083
+30,New Orleans,Louis Armstrong New Orleans International Airport,5569705.0,/wiki/Louis_Armstrong_New_Orleans_International_Airport,29.99333,-90.25806
+31,San Jose,Norman Y. Mineta San José International Airport,5321603.0,/wiki/San_Jose_International_Airport,37.36278,-121.92917
+32,Fort Myers,Southwest Florida International Airport,5044024.0,/wiki/Southwest_Florida_International_Airport,26.53611,-81.75528
+33,Sacramento,Sacramento International Airport,4969366.0,/wiki/Sacramento_International_Airport,38.69556,-121.59083
+34,Pittsburgh,Pittsburgh International Airport,4670954.0,/wiki/Pittsburgh_International_Airport,40.496,-80.246
+35,San Juan / Carolina,Luis Muñoz Marín International Airport,4343354.0,/wiki/Luis_Mu%C3%B1oz_Mar%C3%ADn_International_Airport,18.43917,-66.00194
+36,Ontario,Ontario International Airport,4217366.0,/wiki/Ontario_International_Airport,34.05611,-117.60111
+37,Indianapolis,Indianapolis International Airport,4216766.0,/wiki/Indianapolis_International_Airport,39.71722,-86.29444
+38,San Antonio,San Antonio International Airport,4179994.0,/wiki/San_Antonio_International_Airport,29.52667,-98.47194
+39,Cleveland,Cleveland-Hopkins International Airport,4083476.0,/wiki/Cleveland-Hopkins_International_Airport,41.41167,-81.84972
+40,Columbus,John Glenn Columbus International Airport,3567864.0,/wiki/John_Glenn_Columbus_International_Airport,39.99806,-82.89194
+41,Jacksonville,Jacksonville International Airport,3479923.0,/wiki/Jacksonville_International_Airport,30.49417,-81.68778
+42,Cincinnati/Covington,Cincinnati/Northern Kentucky International Airport,3269979.0,/wiki/Cincinnati/Northern_Kentucky_International_Airport,39.04889,-84.66778
+43,West Palm Beach,Palm Beach International Airport,3100624.0,/wiki/Palm_Beach_International_Airport,26.6832,-80.0956
+44,Hartford,Bradley International Airport,2982194.0,/wiki/Bradley_International_Airport,41.93917,-72.68333
+45,Anchorage,Ted Stevens Anchorage International Airport,2563524.0,/wiki/Ted_Stevens_Anchorage_International_Airport,61.17417,-149.99833
+46,Memphis,Memphis International Airport,2016089.0,/wiki/Memphis_International_Airport,35.0425,-89.97667
+47,Providence,Theodore Francis Green State Airport,1803000.0,/wiki/T._F._Green_Airport,41.72389,-71.42833
+48,Reno,Reno/Tahoe International Airport,1771864.0,/wiki/Reno-Tahoe_International_Airport,39.49917,-119.76806
+49,Norfolk,Norfolk International Airport,1602631.0,/wiki/Norfolk_International_Airport,36.89472,-76.20111
+50,Sanford,Orlando Sanford International Airport,1601614.0,/wiki/Orlando_Sanford_International_Airport,28.77778,-81.2375
+51,Tucson,Tucson International Airport,1594594.0,/wiki/Tucson_International_Airport,32.11611,-110.94111
+52,"Lihue, Kauai",Lihue Airport,1458940.0,/wiki/Lihue_Airport,21.97611,-159.33889
+53,El Paso,El Paso International Airport,1414376.0,/wiki/El_Paso_International_Airport,31.80722,-106.3775
+54,Tulsa,Tulsa International Airport,1342315.0,/wiki/Tulsa_International_Airport,36.19833,-95.88806
+55,Grand Rapids,Gerald R. Ford International Airport,1334979.0,/wiki/Gerald_R._Ford_International_Airport,42.88083,-85.52278
+56,Birmingham,Birmingham–Shuttlesworth International Airport,1304467.0,/wiki/Birmingham%E2%80%93Shuttlesworth_International_Airport,33.56389,-86.75222
+57,Des Moines,Des Moines International Airport,1216357.0,/wiki/Des_Moines_International_Airport,41.53389,-93.66306
+58,Rochester,Greater Rochester International Airport,1205774.0,/wiki/Greater_Rochester_International_Airport,43.11889,-77.6725
+59,St. Petersburg,St. Pete–Clearwater International Airport,1143483.0,/wiki/St._Pete%E2%80%93Clearwater_International_Airport,27.91,-82.6875
+60,Pensacola,Pensacola International Airport,1098889.0,/wiki/Pensacola_International_Airport,30.47333,-87.18667
+61,Savannah,Savannah/Hilton Head International Airport,1056265.0,/wiki/Savannah/Hilton_Head_International_Airport,32.1275,-81.20222
+62,Dayton,James M. Cox Dayton International Airport,1019922.0,/wiki/Dayton_International_Airport,39.90222,-84.21944
+63,Syracuse,Syracuse Hancock International Airport,1013149.0,/wiki/Syracuse_Hancock_International_Airport,43.11111,-76.10639
+64,Palm Springs,Palm Springs International Airport,995801.0,/wiki/Palm_Springs_International_Airport,33.82972,-116.50667
+65,Manchester,Manchester–Boston Regional Airport,995403.0,/wiki/Manchester%E2%80%93Boston_Regional_Airport,42.9325,-71.43556
+66,Sarasota,Sarasota–Bradenton International Airport,977530.0,/wiki/Sarasota%E2%80%93Bradenton_International_Airport,27.39556,-82.55444
+67,Myrtle Beach,Myrtle Beach International Airport,944849.0,/wiki/Myrtle_Beach_International_Airport,33.67972,-78.92833
+68,Knoxville,McGhee Tyson Airport,887103.0,/wiki/McGhee_Tyson_Airport,35.81111,-83.99389
+69,Punta Gorda,Punta Gorda Airport,821557.0,/wiki/Punta_Gorda_Airport_(Florida),26.91889,-81.99083
+70,Fresno,Fresno Yosemite International Airport,761298.0,/wiki/Fresno_Yosemite_International_Airport,36.77667,-119.71889
+71,White Plains,Westchester County Airport,759334.0,/wiki/Westchester_County_Airport,41.06694,-73.7075
+72,"Charlotte Amalie, St. Thomas",Cyril E. King Airport,729382.0,/wiki/Cyril_E._King_Airport,18.33722,-64.97333
+73,Akron,Akron-Canton Regional Airport,685553.0,/wiki/Akron-Canton_Regional_Airport,40.915,-81.44367
+74,Fayetteville,Northwest Arkansas Regional Airport,673810.0,/wiki/Northwest_Arkansas_Regional_Airport,36.28167,-94.30778
+75,Colorado Springs,City of Colorado Springs Municipal Airport,657694.0,/wiki/Colorado_Springs_Airport,38.80583,-104.70083
+76,"Hilo, Hawaii",Hilo International Airport,640757.0,/wiki/Hilo_International_Airport,19.72028,-155.04833
+77,Lexington,Blue Grass Airport,638316.0,/wiki/Blue_Grass_Airport,38.03639,-84.60583
+78,Harrisburg,Harrisburg International Airport,636916.0,/wiki/Harrisburg_International_Airport,40.19306,-76.76333
+79,Burlington,Burlington International Airport,593311.0,/wiki/Burlington_International_Airport,44.47194,-73.15333
+80,Atlantic City,Atlantic City International Airport,589091.0,/wiki/Atlantic_City_International_Airport,39.4575,-74.57722
+81,Cedar Rapids,The Eastern Iowa Airport,547786.0,/wiki/The_Eastern_Iowa_Airport,41.8890778,-91.7003306
+82,Fairbanks,Fairbanks International Airport,538881.0,/wiki/Fairbanks_International_Airport,64.815,-147.85639
+83,Key West,Key West International Airport,497656.0,/wiki/Key_West_International_Airport,24.55611,-81.75944
+84,Springfield,Springfield-Branson National Airport,462126.0,/wiki/Springfield-Branson_National_Airport,37.24556,-93.38861
+85,Lubbock,Lubbock Preston Smith International Airport,448093.0,/wiki/Lubbock_Preston_Smith_International_Airport,33.66361,-101.82056
+86,Billings,Billings Logan International Airport,423213.0,/wiki/Billings_Logan_International_Airport,45.80778,-108.54278
+87,Juneau,Juneau International Airport,420442.0,/wiki/Juneau_International_Airport,58.355,-134.57639
+88,Asheville,Asheville Regional Airport,416939.0,/wiki/Asheville_Regional_Airport,35.43611,-82.54167
+89,Bellingham,Bellingham International Airport,415285.0,/wiki/Bellingham_International_Airport,48.7925,-122.5375
+90,Tallahassee,Tallahassee International Airport,415272.0,/wiki/Tallahassee_International_Airport,30.39667,-84.35028
+91,Wilmington,Wilmington International Airport,413185.0,/wiki/Wilmington_International_Airport,34.27056,-77.9025
+92,Medford,Rogue Valley International-Medford Airport,401469.0,/wiki/Rogue_Valley_International-Medford_Airport,42.37417,-122.87361
+93,Flint,Bishop International Airport,398508.0,/wiki/Bishop_International_Airport,42.96556,-83.74361
+94,Missoula,Missoula International Airport,381582.0,/wiki/Missoula_International_Airport,46.91639,-114.09056
+95,Moline,Quad City International Airport,364393.0,/wiki/Quad_City_International_Airport,41.44861,-90.5075
+96,Fort Wayne,Fort Wayne International Airport,360369.0,/wiki/Fort_Wayne_International_Airport,40.97833,-85.19528
+97,McAllen,McAllen Miller International Airport,355224.0,/wiki/McAllen_Miller_International_Airport,26.17583,-98.23861
+98,Appleton,Appleton International Airport,348026.0,/wiki/Appleton_International_Airport,44.25806,-88.51917
+99,Jackson Hole,Jackson Hole Airport,342044.0,/wiki/Jackson_Hole_Airport,43.60722,-110.73778
+100,Daytona Beach,Daytona Beach International Airport,340815.0,/wiki/Daytona_Beach_International_Airport,29.18472,-81.06056
+101,Amarillo,Rick Husband Amarillo International Airport,334815.0,/wiki/Rick_Husband_Amarillo_International_Airport,35.21944,-101.70583
+102,Green Bay,Green Bay–Austin Straubel International Airport,314909.0,/wiki/Green_Bay%E2%80%93Austin_Straubel_International_Airport,44.48472,-88.12972
+103,Peoria,General Wayne A. Downing Peoria International Airport,307189.0,/wiki/General_Wayne_A._Downing_Peoria_International_Airport,40.66417,-89.69333
+104,Gulfport / Biloxi,Gulfport–Biloxi International Airport,305157.0,/wiki/Gulfport%E2%80%93Biloxi_International_Airport,30.40722,-89.07
+105,Charlottesville,Charlottesville–Albemarle Airport,295930.0,/wiki/Charlottesville%E2%80%93Albemarle_Airport,38.13861,-78.45278
+106,Mobile,Mobile Regional Airport,288209.0,/wiki/Mobile_Regional_Airport,30.69139,-88.24278
+107,Trenton,Trenton Mercer Airport,278436.0,/wiki/Trenton%E2%80%93Mercer_Airport,40.27667,-74.81333
+108,Bismarck,Bismarck Municipal Airport,273980.0,/wiki/Bismarck_Municipal_Airport,46.77278,-100.74583
+109,Gainesville,Gainesville Regional Airport,273253.0,/wiki/Gainesville_Regional_Airport,29.69,-82.27167
+110,Bangor,Bangor International Airport,269013.0,/wiki/Bangor_International_Airport,44.80722,-68.82806
+111,Harlingen,Valley International Airport,263760.0,/wiki/Lehigh_Valley_International_Airport,40.652333,-75.440472
+112,Aguadilla,Rafael Hernández International Airport,257871.0,/wiki/Rafael_Hern%C3%A1ndez_Airport,18.495,-67.12944
+113,Melbourne,Orlando Melbourne International Airport,241289.0,/wiki/Orlando_Melbourne_International_Airport,28.10278,-80.64528
+114,Newburgh,Stewart International Airport,228640.0,/wiki/Stewart_International_Airport,41.50417,-74.10472
+115,Charleston,Yeager Airport,213412.0,/wiki/Yeager_Airport,38.37583,-81.59306
+116,Boulder City,Boulder City Municipal Airport,211615.0,/wiki/Boulder_City_Municipal_Airport,35.94722,-114.86028
+117,Evansville,Evansville Regional Airport,204352.0,/wiki/Evansville_Regional_Airport,38.03833,-87.53083
+118,"Christiansted, St. Croix",Henry E. Rohlsen Airport,196047.0,/wiki/Henry_E._Rohlsen_Airport,17.70444,-64.80167
+119,Bloomington,Central Illinois Regional Airport at Bloomington-Normal,188490.0,/wiki/Central_Illinois_Regional_Airport,40.47722,-88.91583
+120,Durango,Durango-La Plata County Airport,187789.0,/wiki/Durango-La_Plata_County_Airport,37.15139,-107.75389
+121,Great Falls,Great Falls International Airport,176730.0,/wiki/Great_Falls_International_Airport,47.48278,-111.37056
+122,Santa Rosa,Charles M. Schulz–Sonoma County Airport,167151.0,/wiki/Charles_M._Schulz%E2%80%93Sonoma_County_Airport,38.50889,-122.81278
+123,Eagle/Vail,Eagle County Regional Airport,163840.0,/wiki/Eagle_County_Regional_Airport,39.6425,-106.91778
+124,Kalamazoo,Kalamazoo/Battle Creek International Airport,154242.0,/wiki/Kalamazoo/Battle_Creek_International_Airport,42.235,-85.55194
+125,Latrobe,Arnold Palmer Regional Airport,151704.0,/wiki/Arnold_Palmer_Regional_Airport,40.27472,-79.40667
+126,Minot,Minot International Airport,150634.0,/wiki/Minot_International_Airport,48.25778,-101.27806
+127,Jacksonville,Albert J. Ellis Airport,149987.0,/wiki/Albert_J._Ellis_Airport,34.82917,-77.61222
+128,Niagara Falls,Niagara Falls International Airport,142605.0,/wiki/Niagara_Falls_International_Airport,43.10722,-78.94611
+129,Plattsburgh,Plattsburgh International Airport,139398.0,/wiki/Plattsburgh_International_Airport,44.65083,-73.46806
+130,Grand Forks,Grand Forks International Airport,132557.0,/wiki/Grand_Forks_International_Airport,47.94917,-97.17611
+131,Alexandria,Alexandria International Airport,129776.0,/wiki/Alexandria_International_Airport_(Louisiana),31.3275,-92.54861
+132,Ketchikan,Ketchikan International Airport,127881.0,/wiki/Ketchikan_International_Airport,55.35417,-131.71111
+133,Nantucket,Nantucket Memorial Airport,126197.0,/wiki/Nantucket_Memorial_Airport,41.252889,-70.059
+134,Duluth,Duluth International Airport,124284.0,/wiki/Duluth_International_Airport,46.84222,-92.19361
+135,Saginaw,MBS International Airport,122469.0,/wiki/MBS_International_Airport,43.53278,-84.07972
+136,Brownsville,Brownsville/South Padre Island International Airport,120151.0,/wiki/Brownsville/South_Padre_Island_International_Airport,25.90694,-97.42583
+137,Bullhead City,Laughlin/Bullhead International Airport,109334.0,/wiki/Laughlin/Bullhead_International_Airport,35.15611,-114.55944
+138,Ponce,Mercedita International Airport,105804.0,/wiki/Mercedita_Airport,18.00833,-66.56306
+139,Helena,Helena Regional Airport,103239.0,/wiki/Helena_Regional_Airport,46.60667,-111.98278
+140,Monroe,Monroe Regional Airport,102342.0,/wiki/Monroe_Regional_Airport_(Louisiana),32.51083,-92.03778
+141,Laredo,Laredo International Airport,101115.0,/wiki/Laredo_International_Airport,27.54389,-99.46167
+142,La Crosse,La Crosse Regional Airport,99651.0,/wiki/La_Crosse_Regional_Airport,43.87917,-91.25667
+143,Ithaca,Ithaca Tompkins International Airport,97212.0,/wiki/Ithaca_Tompkins_International_Airport,42.49139,-76.45861
+144,Stockton,Stockton Metropolitan Airport,93076.0,/wiki/Stockton_Metropolitan_Airport,37.89417,-121.23833
+145,Casper,Casper/Natrona County International Airport,92805.0,/wiki/Casper/Natrona_County_International_Airport,42.90806,-106.46444
+146,"Kaunakakai, Molokai",Molokai Airport,92560.0,/wiki/Molokai_Airport,21.15278,-157.09639
+147,Toledo,Toledo Express Airport,92522.0,/wiki/Toledo_Express_Airport,41.586806,-83.807833
+148,Kenai,Kenai Municipal Airport,92485.0,/wiki/Kenai_Municipal_Airport,60.57333,-151.24472
+149,Champaign (Savoy),University of Illinois - Willard Airport,89318.0,/wiki/University_of_Illinois_Willard_Airport,40.03917,-88.27806
+150,Abilene,Abilene Regional Airport,84809.0,/wiki/Abilene_Regional_Airport,32.41325,-99.683111
+151,Fort Smith,Fort Smith Regional Airport,83920.0,/wiki/Fort_Smith_Regional_Airport,35.33667,-94.3675
+152,Sitka,Sitka Rocky Gutierrez Airport,83404.0,/wiki/Sitka_Rocky_Gutierrez_Airport,57.04722,-135.36167
+153,Kodiak,Kodiak Airport,79682.0,/wiki/Kodiak_Airport,57.74972,-152.49389
+154,Provo,Provo Municipal Airport,78451.0,/wiki/Provo_Municipal_Airport,40.219194,-111.723361
+155,Sun Valley,Friedman Memorial Airport,77729.0,/wiki/Friedman_Memorial_Airport,43.50389,-114.29556
+156,Portsmouth,Portsmouth International Airport at Pease,73247.0,/wiki/Portsmouth_International_Airport_at_Pease,43.07806,-70.82333
+157,Lewiston,Lewiston-Nez Perce County Airport,72724.0,/wiki/Lewiston-Nez_Perce_County_Airport,46.37444,-117.01528
+158,Santa Fe,Santa Fe Regional Airport,71252.0,/wiki/Santa_Fe_Regional_Airport,35.61722,-106.08944
+159,Arcata/Eureka,Arcata Airport,69732.0,/wiki/Arcata-Eureka_Airport,40.97778,-124.10833
+160,Grand Island,Central Nebraska Regional Airport,68879.0,/wiki/Central_Nebraska_Regional_Airport,40.9675,-98.30972
+161,Williston,Williston Basin International Airport,68829.0,/wiki/Williston_Basin_International_Airport,48.25972,-103.75056
+162,"Pago Pago, Tutuila",Pago Pago International Airport,65439.0,/wiki/Pago_Pago_International_Airport,-14.32806,-170.71194
+163,Columbia,Columbia Regional Airport,65014.0,/wiki/Columbia_Regional_Airport,38.81806,-92.21972
+164,Flagstaff,Flagstaff Pulliam Airport,64578.0,/wiki/Flagstaff_Pulliam_Airport,35.14028,-111.66917
+165,Salisbury,Salisbury-Ocean City Wicomico Regional Airport,64393.0,/wiki/Salisbury-Ocean_City_Wicomico_Regional_Airport,38.34,-75.50944
+166,Waco,Waco Regional Airport,64356.0,/wiki/Waco_Regional_Airport,31.61139,-97.23056
+167,Manhattan,Manhattan Regional Airport,63761.0,/wiki/Manhattan_Regional_Airport,39.14111,-96.67167
+168,Vieques,Antonio Rivera Rodríguez Airport,63104.0,/wiki/Antonio_Rivera_Rodr%C3%ADguez_Airport,18.13472,-65.49389
+169,"Pullman / Moscow, Idaho",Pullman/Moscow Regional Airport,61833.0,/wiki/Pullman-Moscow_Regional_Airport,46.744,-117.108
+170,Nome,Nome Airport,60655.0,/wiki/Nome_Airport,64.51222,-165.44528
+171,Vineyard Haven,Martha's Vineyard Airport,54084.0,/wiki/Martha%27s_Vineyard_Airport,41.39306,-70.61444
+172,Lake Charles,Lake Charles Regional Airport,53576.0,/wiki/Lake_Charles_Regional_Airport,30.12611,-93.22333
+173,Tyler,Tyler Pounds Regional Airport,52494.0,/wiki/Tyler_Pounds_Regional_Airport,32.35389,-95.40278
+174,Lawton,Lawton–Fort Sill Regional Airport,51088.0,/wiki/Lawton%E2%80%93Fort_Sill_Regional_Airport,34.56778,-98.41639
+175,Dothan,Dothan Regional Airport,49411.0,/wiki/Dothan_Regional_Airport,31.32111,-85.44944
+176,Walla Walla,Walla Walla Regional Airport,47439.0,/wiki/Walla_Walla_Regional_Airport,46.09,-118.29
+177,Marquette,Sawyer International Airport,45462.0,/wiki/Sawyer_International_Airport,46.35361,-87.39528
+178,Florence,Florence Regional Airport,45300.0,/wiki/Florence_Regional_Airport,34.18528,-79.72389
+179,Barrow,Wiley Post–Will Rogers Memorial Airport,45300.0,/wiki/Wiley_Post%E2%80%93Will_Rogers_Memorial_Airport,71.28556,-156.76611
+180,Columbus,Columbus Metropolitan Airport,44813.0,/wiki/Columbus_Metropolitan_Airport,32.51639,-84.93889
+181,Redding,Redding Municipal Airport,43414.0,/wiki/Redding_Municipal_Airport,40.50889,-122.29333
+182,"Lanai City, Lanai",Lanai Airport,43275.0,/wiki/Lanai_Airport,20.78556,-156.95139
+183,Ceiba,José Aponte de la Torre Airport,43005.0,/wiki/Jos%C3%A9_Aponte_de_la_Torre_Airport,18.24528,-65.64333
+184,Columbus,Golden Triangle Regional Airport,40823.0,/wiki/Golden_Triangle_Regional_Airport,33.44833,-88.59139
+185,Cody,Yellowstone Regional Airport,40340.0,/wiki/Yellowstone_Regional_Airport,44.52028,-109.02389
+186,Dubuque,Dubuque Regional Airport,37954.0,/wiki/Dubuque_Regional_Airport,42.40194,-90.70944
+187,King Salmon,King Salmon Airport,36717.0,/wiki/King_Salmon_Airport,58.67639,-156.64861
+188,Pocatello,Pocatello Regional Airport,34462.0,/wiki/Pocatello_Regional_Airport,42.90972,-112.59583
+189,Albany,Southwest Georgia Regional Airport,34226.0,/wiki/Southwest_Georgia_Regional_Airport,31.53556,-84.19444
+190,Dillingham,Dillingham Airport,33616.0,/wiki/Dillingham_Airport,59.04472,-158.50556
+191,Culebra,Benjamín Rivera Noriega Airport,31141.0,/wiki/Benjam%C3%ADn_Rivera_Noriega_Airport,18.31333,-65.30444
+192,Hilton Head,Hilton Head Airport,30956.0,/wiki/Hilton_Head_Airport,32.22444,-80.6975
+193,Gunnison,Gunnison-Crested Butte Regional Airport,30780.0,/wiki/Gunnison-Crested_Butte_Regional_Airport,38.53389,-106.93306
+194,Wilmington,Wilmington Airport,30355.0,/wiki/Wilmington_Airport_(Delaware),39.67861,-75.60667
+195,St. Augustine,Northeast Florida Regional Airport,28462.0,/wiki/Northeast_Florida_Regional_Airport,29.95925,-81.33972
+196,Gillette,Gillette–Campbell County Airport,28383.0,/wiki/Gillette%E2%80%93Campbell_County_Airport,44.34889,-105.53944
+197,Joplin,Joplin Regional Airport,27930.0,/wiki/Joplin_Regional_Airport,37.15167,-94.49833
+198,New Haven,Tweed New Haven Regional Airport,27911.0,/wiki/Tweed_New_Haven_Regional_Airport,41.26389,-72.88667
+199,Garden City,Garden City Regional Airport,26825.0,/wiki/Garden_City_Regional_Airport,37.9275,-100.72444
+200,Butte,Bert Mooney Airport,25890.0,/wiki/Bert_Mooney_Airport,45.95472,-112.4975
+201,Cincinnati,Cincinnati Municipal Lunken Airport,25706.0,/wiki/Cincinnati_Municipal_Lunken_Airport,39.10333,-84.41861
+202,Pellston,Pellston Regional Airport,25497.0,/wiki/Pellston_Regional_Airport,45.57083,-84.79667
+203,Hancock,Houghton County Memorial Airport,25439.0,/wiki/Houghton_County_Memorial_Airport,47.16833,-88.48917
+204,Rhinelander,Rhinelander–Oneida County Airport,24477.0,/wiki/Rhinelander%E2%80%93Oneida_County_Airport,45.63083,-89.46639
+205,Eau Claire,Chippewa Valley Regional Airport,23950.0,/wiki/Chippewa_Valley_Regional_Airport,44.86583,-91.48417
+206,Owensboro,Owensboro-Daviess County Regional Airport,23537.0,/wiki/Owensboro-Daviess_County_Regional_Airport,37.73889,-87.16694
+207,Watertown,Watertown International Airport,22785.0,/wiki/Watertown_International_Airport,43.99194,-76.02056
+208,Williamsport,Williamsport Regional Airport,22547.0,/wiki/Williamsport_Regional_Airport,41.24167,-76.92167
+209,Longview,East Texas Regional Airport,22480.0,/wiki/East_Texas_Regional_Airport,32.38389,-94.71139
+210,Petersburg,Petersburg James A. Johnson Airport,21896.0,/wiki/Petersburg_James_A._Johnson_Airport,56.80139,-132.94611
+211,Mammoth Lakes,Mammoth Yosemite Airport,21826.0,/wiki/Mammoth_Yosemite_Airport,37.62417,-118.83889
+212,Sault Ste. Marie,Chippewa County International Airport,20974.0,/wiki/Chippewa_County_International_Airport,46.25083,-84.4725
+213,Paducah,Barkley Regional Airport,20266.0,/wiki/Barkley_Regional_Airport,37.06028,-88.77306
+214,Rota Island,Rota International Airport,19178.0,/wiki/Rota_International_Airport,14.17444,145.2425
+215,Cordova,Merle K. (Mudhole) Smith Airport,18649.0,/wiki/Merle_K._(Mudhole)_Smith_Airport,60.49167,-145.4775
+216,Brainerd,Brainerd Lakes Regional Airport,18200.0,/wiki/Brainerd_Lakes_Regional_Airport,46.40222,-94.13556
+217,Muskegon,Muskegon County Airport,18165.0,/wiki/Muskegon_County_Airport,43.16778,-86.23556
+218,Page,Page Municipal Airport,17435.0,/wiki/Page_Municipal_Airport,36.92611,-111.44833
+219,Block Island,Block Island State Airport,17225.0,/wiki/Block_Island_State_Airport,41.16806,-71.57778
+220,Westerly,Westerly State Airport,17218.0,/wiki/Westerly_State_Airport,41.34972,-71.80333
+221,Escanaba,Delta County Airport,16822.0,/wiki/Delta_County_Airport,45.72278,-87.09361
+222,Dickinson,Dickinson Theodore Roosevelt Regional Airport,16822.0,/wiki/Dickinson_Theodore_Roosevelt_Regional_Airport,46.79722,-102.80194
+223,Rockland,Knox County Regional Airport,16206.0,/wiki/Knox_County_Regional_Airport,44.06,-69.09917
+224,Laramie,Laramie Regional Airport,15957.0,/wiki/Laramie_Regional_Airport,41.31194,-105.675
+225,North Las Vegas,North Las Vegas Airport,15828.0,/wiki/North_Las_Vegas_Airport,36.21056,-115.19444
+226,St. Cloud,St. Cloud Regional Airport,15615.0,/wiki/St._Cloud_Regional_Airport,45.54667,-94.06
+227,Ogden,Ogden-Hinckley Airport,15609.0,/wiki/Ogden-Hinckley_Airport,41.19556,-112.01306
+228,Hobbs,Lea County Regional Airport,14707.0,/wiki/Lea_County_Regional_Airport,32.6875,-103.21694
+229,Cedar City,Cedar City Regional Airport,14413.0,/wiki/Cedar_City_Regional_Airport,37.70083,-113.09889
+230,International Falls,Falls International Airport,13831.0,/wiki/Falls_International_Airport,48.56556,-93.40222
+231,Aniak,Aniak Airport,13688.0,/wiki/Aniak_Airport,61.58167,-159.54306
+232,Friday Harbor,Friday Harbor Airport,12831.0,/wiki/Friday_Harbor_Airport,48.52194,-123.02444
+233,Iron Mountain,Ford Airport,12604.0,/wiki/Ford_Airport_(Iron_Mountain),45.81833,-88.11444
+234,Presque Isle,Northern Maine Regional Airport at Presque Isle,12526.0,/wiki/Northern_Maine_Regional_Airport_at_Presque_Isle,46.68889,-68.04472
+235,Farmingdale,Republic Airport,10910.0,/wiki/Republic_Airport,40.72889,-73.41333
+236,Galena,Edward G. Pitka Sr. Airport,10532.0,/wiki/Edward_G._Pitka_Sr._Airport,64.73611,-156.9375
+237,Lebanon,Lebanon Municipal Airport,10245.0,/wiki/Lebanon_Municipal_Airport_(New_Hampshire),43.62611,-72.30417
+238,Alpena,Alpena County Regional Airport,10031.0,/wiki/Alpena_County_Regional_Airport,45.07806,-83.56028
+239,Sidney,Sidney–Richland Municipal Airport,8065.0,/wiki/Sidney%E2%80%93Richland_Municipal_Airport,47.70694,-104.1925
+240,Jamestown,Jamestown Regional Airport,7941.0,/wiki/Jamestown_Regional_Airport,46.92972,-98.67833
